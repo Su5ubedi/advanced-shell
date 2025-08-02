@@ -15,9 +15,7 @@
 
 # Go binary (executable without extension - common on Linux/Mac)
 # Add your specific binary name here if needed
-# main
-# your-app-name
-
+*shell
 # Test binary, built with `go test -c`
 *.test
 
